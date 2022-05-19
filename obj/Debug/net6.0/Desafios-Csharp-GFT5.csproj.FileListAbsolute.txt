@@ -1,0 +1,15 @@
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\bin\Debug\net6.0\Desafios-Csharp-GFT5.exe
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\bin\Debug\net6.0\Desafios-Csharp-GFT5.deps.json
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\bin\Debug\net6.0\Desafios-Csharp-GFT5.runtimeconfig.json
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\bin\Debug\net6.0\Desafios-Csharp-GFT5.dll
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\bin\Debug\net6.0\Desafios-Csharp-GFT5.pdb
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.csproj.AssemblyReference.cache
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.AssemblyInfoInputs.cache
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.AssemblyInfo.cs
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.csproj.CoreCompileInputs.cache
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.dll
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\refint\Desafios-Csharp-GFT5.dll
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.pdb
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\Desafios-Csharp-GFT5.genruntimeconfig.cache
+C:\Users\Zeld\workspace\Desafios-Csharp-GFT5\obj\Debug\net6.0\ref\Desafios-Csharp-GFT5.dll
